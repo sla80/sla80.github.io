@@ -1,0 +1,30 @@
+body {
+	min-height: 100%;
+	background-color: #85A5FF;
+	font-family: "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+}
+
+div.footer {
+	position: absolute;
+	bottom: 0.5em;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 1.5em;
+}
+
+ul li {
+	color: #FFF;
+	font-size: 2em;
+}
+
+a {
+	color: #DBE4FF;
+}
+
+a:hover {
+	color: #FFF;
+}
